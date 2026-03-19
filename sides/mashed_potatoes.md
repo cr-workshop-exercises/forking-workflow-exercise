@@ -1,4 +1,5 @@
 # Mashed potatoes
+
 ## Ingredients:
 
 - 1 kg potatoes (Yukon Gold or similar)
