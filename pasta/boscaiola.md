@@ -8,7 +8,7 @@
 - peas
 - mushrooms
 - onions
-- cherry tomatoes
+- tomatoes
 
 
 ## Instructions
