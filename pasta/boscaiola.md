@@ -12,5 +12,6 @@
 
 
 ## Instructions
-
-TODO: these are missing
+- cook pasta
+- chop vegtables
+- mix everything 
