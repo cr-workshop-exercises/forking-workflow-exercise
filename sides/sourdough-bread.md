@@ -1,4 +1,4 @@
-# Simple Sourdoudg Bread Recipe
+# Simple Sourdough Bread Recipe
 
 ## Ingredients
 - 540g white flour
