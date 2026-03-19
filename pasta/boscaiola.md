@@ -14,4 +14,7 @@
 ## Instructions
 - cook pasta
 - chop vegtables
-- mix everything 
+- fry the mushrooms
+- mix everything
+
+Ready to enjoy!
