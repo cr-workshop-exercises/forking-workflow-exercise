@@ -7,7 +7,6 @@
 - 1 cup blueberries
 - 1 cup grapes, halved
 - 1 cup mango, peeled and sliced
-- 1 banana, sliced
 - 1 apple, cored and chopped
 - 1 orange, peeled and sectioned
 - Juice of 1 lime or lemon (to prevent the fruit from browning and to add a bit
@@ -21,7 +20,6 @@
    - Wash all the fruits thoroughly under running water.
    - Hull and halve the strawberries.
    - Halve the grapes.
-   - Slice the banana.
    - Core and chop the apple.
    - Peel and section the orange.
 
