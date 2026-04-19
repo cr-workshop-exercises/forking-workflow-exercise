@@ -8,6 +8,7 @@
 - 1 tsp baking powder
 - A pinch of salt
 - Butter (or oil or margarine) for frying
+- Bacon
 
 ## Instructions
 1. Mix ingredients
