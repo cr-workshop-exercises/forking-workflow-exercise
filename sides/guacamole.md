@@ -16,7 +16,11 @@
 - chop avocados
 - chop onion
 - chop chili
+- chop cilantro
 - squeeze lime
 - add salt
 - and mix well
-- enjoy!
+- garnish with extra cilantro
+- enjoy! with or without nachos.
+
+  *optional Tajin!
