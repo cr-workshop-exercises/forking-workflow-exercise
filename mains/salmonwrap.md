@@ -14,4 +14,4 @@
 - Cook the salmon in the oven or the pan.
 - Cut the cucumber, mango, avocado, and onion into pieces.
 - Put everything into the tortilla.
-- Enjoy.
+- Enjoy!
