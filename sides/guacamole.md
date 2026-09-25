@@ -13,7 +13,7 @@
 
 ## Instructions
 
-- chop avocados
+- mash avocados
 - chop onion
 - chop chili
 - squeeze lime
