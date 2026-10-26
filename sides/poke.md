@@ -16,3 +16,4 @@
 ## Instructions
 
 Mix ingredients in a bowl.
+1. Cut the salmon (or ahi-tuna) and avocado into bite-sized cubes.
