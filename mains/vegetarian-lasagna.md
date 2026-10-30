@@ -12,7 +12,7 @@
 - **1 lb** fresh spinach, rinsed and chopped (or use frozen spinach, thawed and drained)
 - **1** medium zucchini, thinly sliced
 - **1** bell pepper, diced
-- **1** small onion, diced
+- **1** large onion, diced
 - **2-3 cloves** garlic, minced
 - **1 tablespoon** olive oil
 - **Salt and pepper** to taste
